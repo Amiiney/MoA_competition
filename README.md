@@ -1,5 +1,5 @@
 # MoA_competition
-The solution of the mechanism of action prediction competition on kaggle with of the collaboration with [@Nicohrubec](https://github.com/nicohrubec). **The models in this repository work perfectly with tabular data with multi-label targets**
+The solution of the mechanism of action prediction competition on kaggle in collaboration with [@Nicohrubec](https://github.com/nicohrubec). **The models in this repository work perfectly with tabular data with multi-label targets**
 
 ### BLOG POST: https://medium.com/@aminey/drug-discovery-with-neural-networks-a6a68c76bb53
 
